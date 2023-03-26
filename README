@@ -1,0 +1,28 @@
+
+Pour accéder au site web vous pouvez :
+
+  - installer un loclahost à la racine du projet, ainsi vous pouvez y accéder :
+    -> en tapant l'url : "localhost" ou "localhost/index.php"
+    -> en scanant un QR, présent dans le fichier "QRcode" du projet, depuis votre machine
+       pour tester le fonctionnement des QR code, vous pouvez aussi entrer l'url : "localhost?numeroContrat="
+
+  - aller directement sur internet en tapant l'url : "I-car.justine-ribas.com"
+    pour tester le fonctionnement des QR code, vous pouvez aussi entrer l'url : "I-car.justine-ribas.com/index.php?numeroContrat="
+
+  - scaner un des QR code présent dans le dossier "" depuis n'importe quel appareil
+
+
+
+Pour vous connectez au site, nous avons conserver des identifiants et leurs mots de passe non-cryptés :
+
+| identifiant      | mdp  | profil         | codeAssureur |
+|------------------+------+----------------+--------------|
+| JeanDupont       | mdp  | assuré         | 111          |
+| MichaelPolice    | mdp2 | police         |              |
+| kevinGest        | mdp3 | gestionnaire   | 111          |
+| roryAdmin        | mdp4 | administrateur |              |
+| tomasGest        | mdp5 | gestionnaire   | 222          |
+| LisaDupont       | mdp6 | assuré         | 111          |
+| TomDuChateau     | mdp7 | assuré         | 111          |
+| FrançoisCazenave | mdp8 | assuré         | 222          |
+| PaulDufour       | mdp9 | assuré         | 222          |

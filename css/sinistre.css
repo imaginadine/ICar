@@ -1,0 +1,15 @@
+.sinistre{
+  border-radius: 25px;
+  border: 2px solid #5a5958;
+  background-color: white;
+  color: #5a5958;
+  padding: 10px;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.sinistre h2{
+  font-size: 18px;
+}

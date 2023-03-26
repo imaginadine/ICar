@@ -1,0 +1,61 @@
+.demandeAdresse{
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 10px;
+  background-color: #208ecf;
+  color: white;
+  font-family: sans-serif;
+  border: 2px solid;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.demandeAdresse .btn{
+  background-color: white;
+  color: #208ecf;
+  margin-right: 5%;
+}
+
+.demandeAdresse .btn:hover{
+  background-color: white;
+  color: #208ecf;
+  filter: drop-shadow(2px 4px 5px #5a5958);
+}
+
+.demandeAdresse p{
+  font-size: 18px;
+  margin-left: 5%;
+}
+
+.btnValider{
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 7px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.btnValider:hover{
+  background-color: rgb(46, 145, 50);
+}
+
+.btnRefuser{
+  background-color: #ff5722;
+  border: none;
+  color: white;
+  padding: 7px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.btnRefuser:hover{
+  background-color: rgb(225, 57, 4);
+}

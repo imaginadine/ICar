@@ -1,0 +1,3 @@
+emetteur;date;heure;type;categorie;urgence;titre;description;traitement;numero
+MAIF;28-05-2021;11:07;incident;pb2;basse;"Problème formulaire";"Lors du remplissage de formulaire, je me suis trompé sur mon code postal. Comment puis-je le modifier ?";en_cours;1
+MAIF;28-05-2021;11:53;incident;pb3;basse;"problème site";"Le site met énormément de temps à charger chaque page malgré une bonne connexion.";en_cours;2

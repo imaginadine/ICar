@@ -1,0 +1,6 @@
+identifiant;nom;prenom;tel;mail;adresse;ville;codePostal;pays;codeAssureur
+JeanDupont;Dupont;Jean;0601020304;jeandupont@gmail.com;"13 boulevard de la paix";Pau;64000;France;111
+LisaDupont;Dupont;Lisa;0601030304;lisadupont@gmail.com;"22 impasse de la Marquise";Lée;64320;France;111
+TomDuChateau;DuChateau;Tom;0617358295;tomduchateau@gmail.com;"15 avenue de la Victoire";Pau;64000;France;111
+FrançoisCazenave;Cazenave;François;0605040102;francois@gmail.com;"1 rue de la paix";Paris;75000;France;222
+PaulDufour;Dufour;Paul;0601020304;pauldufour@orange.fr;"24 rue des ouvriers";Toulouse;31000;France;222

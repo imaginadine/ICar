@@ -1,0 +1,12 @@
+emetteur;destinataire;date;heure;message
+JeanDupont;111;2021-05-05;09:33;"Bonjour, j'ai un soucis avec mon compte. Pourriez-vous m'aider ?"
+111;JeanDupont;2021-05-05;10:33;"Bonjour monsieur Dupont, dites-moi quel est votre problème et je ferai mon nécessaire pour vous aider à le résoudre"
+JeanDupont;111;2021-05-10;19:53;"Je ne suis pas très bon en informatique et j'ai du mal à changer certaines informations."
+111;JeanDupont;2021-05-10;20:53;"Entendu, quelles sont les informations que vous souhaitez changer ?"
+JeanDupont;111;2021-05-12;09:25;"Ayant changé d'adresse récemment, j'aimerai modifier les informations liées à cette dernière."
+111;JeanDupont;2021-05-12;09:26;"Aucun problème. Il faudra tout d'abord vous munir d'un justificatif de domicile."
+111;LisaDupont;14-05-2021;16:11;"Ensuite, il va falloir vous connecter avec votre identifiant et votre mot de passe pour arriver sur le menu."
+111;JeanDupont;14-05-2021;17:24;"Une fois arrivé sur le menu, aller dans Profil et il y a un bouton bleu qui sert à modifier les informations."
+JeanDupont;111;14-05-2021;17:26;"Super merci j'ai trouvé comment faire. Bonne journée."
+111;JeanDupont;14-05-2021;17:26;"Avec plaisir monsieur Dupont, passez une agréable journée également."
+111;JeanDupont;06-06-2021;18:46;"Bonjour M. Dupont"

@@ -1,0 +1,4 @@
+code;nom;adresse;ville;codePostal;pays;tel;degatsAssurés
+111;MAIF;"4 Rue Raymond Ritter";Pau;64000;France;0612345678;oui
+222;MAAF;"16 Boulevard d'Alsace Lorraine";Pau;64000;France;0559146766;oui
+192;ALLIANZ;"11 Rue Montpensier";Pau;64000;France;0559838787;oui

@@ -1,0 +1,5 @@
+numero;dateDebut;dateFin;codePays;codeAssureur;plaque;catégorie;marque;validiteTerritoriale;paysImmatriculation;identifiantAssure
+58483292;2010-06-03;2030-06-03;F;111;BB-378-MP;B;Peugeot;A-B-GB-P-;France;JeanDupont
+53020722;2013-05-02;2033-05-02;F;111;ZZ-333-ZZ;B;Fiat;AND-BIH-BY-;France;JeanDupont
+78427353;2021-05-25;2041-05-25;F;111;AZ-555-AE;A;Maserati;AND-BIH-BY-;France;LisaDupont
+80598378;2015-02-18;2035-02-18;F;222;LM-557-AZ;B;BMW;MK-RUS-SRB-;France;FrançoisCazenave

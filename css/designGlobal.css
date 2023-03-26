@@ -1,0 +1,193 @@
+/*Couleur bleu du logo : #208ecf ou rgb(32, 142, 207)*/
+/*Couleur grise du logo : #5a5958 ou rgb(90, 89, 88)*/
+/* Vert utilisé : #4caf50 ou rgb(76, 175, 80)*/
+/* Rouge utilisé : #ff5722 ou rgb(255, 87, 34)*/
+
+body{
+  background-color: white;
+}
+
+html, body{
+ margin:0;
+ padding:0;
+ font-family: sans-serif;
+}
+
+.contenu{
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.titre{
+  color: #208ecf;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 100px;
+  font-family: sans-serif;
+}
+
+.menu{
+  margin-left: 5%;
+  margin-right: 5%;
+  color: #5a5958;
+  font-family: sans-serif;
+  font-size: 17px;
+}
+
+.formulaire{
+  margin-left: 5%;
+  margin-right: 5%;
+  color: #5a5958;
+  font-family: sans-serif;
+  font-size: 17px;
+}
+
+a{
+  text-decoration:none;
+  color: #5a5958;
+  font-family: sans-serif;
+}
+
+a:hover{
+  color: #8c8b8a;
+}
+
+.affichage{
+  margin-left: 5%;
+  margin-right: 5%;
+  color: #5a5958;
+  font-family: sans-serif;
+}
+
+.encadreInfo{
+  border-radius: 25px;
+  border: 2px solid #208ecf;
+  background-color: white;
+  color: #208ecf;
+  padding: 10px;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.encadreInfo:hover{
+  transform: translate(-4px,-6px);
+  filter: drop-shadow(2px 4px 5px #5a5958);
+  cursor: pointer;
+}
+
+table{
+  text-align: center;
+}
+
+td{
+  padding: 10px;
+  color: white;
+  background-color: rgba(32, 142, 207, 0.85);
+}
+
+th{
+  padding: 10px;
+  color: white;
+  background-color: #208ecf;
+}
+
+.encadreInfoModification{
+  border-radius: 25px;
+  border: 2px solid #208ecf;
+  background-color: white;
+  color: #5a5958;
+  padding: 10px;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 10px;
+}
+
+.encadreInfoModification .info{
+  text-align: left;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.encadreNumContrat{
+  display: inline-flex;
+  border-radius: 25px;
+  border: 2px solid #208ecf;
+  background-color: white;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.encadreNumContrat:hover{
+  transform: translate(-4px,-6px);
+  filter: drop-shadow(2px 4px 5px #5a5958);
+  cursor: pointer;
+}
+
+.contrat{
+  margin-left: 5%;
+  margin-right: 5%;
+  color: #5a5958;
+  font-family: sans-serif;
+  border: 2px solid #5a5958;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.btnAjouter{
+  margin-top: 20px;
+  width: 100%;
+  padding: 10px 16px;
+  border: 2px solid #208ecf;
+  background-color: white;
+  color: #208ecf;
+  font-size: 16px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.btnAjouter:hover{
+  filter: drop-shadow(1px 2px 3px black);
+  cursor: pointer;
+}
+
+
+.btn{
+  background-color: #208ecf;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.btn:hover {
+  background-color: #1c7fb8;
+  cursor: pointer;
+}
+
+.row{
+  flex-direction: row;
+}
+
+.column{
+  flex-direction: column;
+}
+
+.alert{
+  border-radius: 5px;
+  border: 2px solid;
+  background-color: rgba(90, 89, 88, 0.5);
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  color: white;
+  text-align: center;
+}

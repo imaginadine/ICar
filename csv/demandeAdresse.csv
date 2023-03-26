@@ -1,0 +1,6 @@
+numero;identifiant;codeAssureur;ancienAdresse;ancienVille;ancienCodePostal;ancienPays;nvAdresse;nvVille;nvCodePostal;nvPays;traitement
+1;JeanDupont;111;"26 rue Catherine de Médicis";Idron;64320;France;"27 rue Catherine de Médicis";Pau;64000;France;valider
+2;JeanDupont;111;"27 rue Catherine de Médicis";Pau;64000;France;"27 rue Catherine de Médicis";Pau;64000;France;refuser
+3;JeanDupont;111;"27 rue Catherine de Médicis";Pau;64000;France;"13 boulevard de la paix";Pau;64000;France;valider
+4;JeanDupont;111;"27 rue Catherine de Médicis";Pau;64000;France;"28 rue Catherine de Médicis";Pau;64000;France;en_cours
+5;LisaDupont;111;"22 impasse de la Marquise";Lée;64320;France;"22 impasse de la Marquise";Idron;64320;France;en_cours
